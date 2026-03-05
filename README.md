@@ -6,10 +6,18 @@ except for dangerous ones and pornographic ones, we're not fucking cavemen you k
 
 
 ## Goals for the future
-[ ] First Game gets booted
+[ ] First Game boots
+
 [ ] Controller emulation
+
 [ ] CPU emulation
+
 [ ] Sound emulation
+
 [ ] Sega 32X emulation
+
 [ ] Sega CD emulation
+
 [ ] RAM CAAAAAAAAAAAARTS!
+
+[ ] SEGA Mega Modem emulation
